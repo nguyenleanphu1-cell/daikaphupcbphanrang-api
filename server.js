@@ -1,1 +1,1 @@
-
+console.log("DAIKAPHUPCBPHANRANG API");
